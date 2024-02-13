@@ -1,0 +1,2 @@
+Bureau/langchainProject/* filter=lfs diff=lfs merge=lfs -text
+Bureau/langchainProject/langchainProject/* filter=lfs diff=lfs merge=lfs -text
